@@ -6,7 +6,7 @@ https://cs50.harvard.edu/web/2020/notes/3/
 pip install django
 ```
 
-2) Run ``` django-admin startproject PROJECT_NAME ``` to create a number of starter files for our project.  
+2) Run ``` python -m django startproject PROJECT_NAME ``` to create a number of starter files for our project.  
 
 3) Run ``` cd PROJECT_NAME ``` to navigate into your new project’s directory.  
 
